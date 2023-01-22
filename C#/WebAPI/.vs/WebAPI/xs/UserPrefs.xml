@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{49AD6C53-E355-4C19-B9DE-CF9F2DA0BA38}|http">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebAPI/appsettings.json">
+    <Files>
+      <File FileName="WebAPI/User.cs" Line="7" Column="20" />
+      <File FileName="WebAPI/DataContext.cs" Line="12" Column="1" />
+      <File FileName="WebAPI/appsettings.json" Line="10" Column="103" />
+      <File FileName="WebAPI/Program.cs" Line="2" Column="14" />
+      <File FileName="WebAPI/UserModel.cs" Line="16" Column="32" />
+      <File FileName="WebAPI/DbHelper.cs" Line="18" Column="1" />
+      <File FileName="WebAPI/UserController.cs" Line="16" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebAPI" expanded="True">
+            <Node name="WebAPI" expanded="True">
+              <Node name="appsettings.json" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.WebAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
